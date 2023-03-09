@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\Laba_7.exe
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\Laba_7.deps.json
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\Laba_7.runtimeconfig.json
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\Laba_7.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\Laba_7.dll
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\ref\Laba_7.dll
+C:\Users\Acer\source\repos\Laba_7\bin\Debug\net5.0\Laba_7.pdb
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.dll
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\ref\Laba_7.dll
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.pdb
+C:\Users\Acer\source\repos\Laba_7\obj\Debug\net5.0\Laba_7.genruntimeconfig.cache
